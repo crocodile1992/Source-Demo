@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/org/o7planning/simplewebapp/conn/ConnectionUtils.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/conn/SQLServerConnUtils_JTDS.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/conn/SQLServerConnUtils_SQLJDBC.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/filter/CookieFilter.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/filter/JDBCFilter.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/AddProductToCardServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/CreateProductServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/DeleteProductServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/EditProductServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/HomeServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/LoginServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/ProductListServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/UserInfoServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/utils/MyUtils.java=UTF-8
